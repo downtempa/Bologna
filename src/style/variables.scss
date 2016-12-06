@@ -1,0 +1,8 @@
+$first-font: "Quattrocento Sans";
+$second-font: "Rufina";
+
+$font-sans-serif-fallback: Arial, Helvetica, sans-serif;
+$font-serif-fallback: Georgia, Times, serif;
+
+$main-font: $first-font, $font-sans-serif-fallback;
+$title-font: $second-font, $font-serif-fallback;

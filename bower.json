@@ -1,0 +1,20 @@
+{
+  "name": "bologna",
+  "description": "front page news magazine",
+  "main": "index.js",
+  "authors": [
+    "downtempa"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/downtempa/Bologna",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize.css": "latest"
+  }
+}
